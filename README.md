@@ -12,7 +12,7 @@ My Github profile has several repositories that are projects in other programmin
 ### Python projects
 
 - Mods
-- Plot-fitting
+- plot-fitting-project
 
 ### R project
 
