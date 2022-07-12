@@ -5,20 +5,20 @@
 - 📫 How to reach me radek.kluczewski@student.uj.edu.pl, radek.info.klucz@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
-# About my repositories
+## About my repositories
 
 My Github profile has several repositories that are projects in other programming languages. If you want to learn more about these projects, check out the individual repository. 
 
-## Python projects
+### Python projects
 
 - Mods
 - Plot-fitting
 
-## R project
+### R project
 
-## C project 
+### C project 
 
-## SQL project
+### SQL project
 
 
 <!---
