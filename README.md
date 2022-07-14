@@ -11,7 +11,7 @@ My Github profile has several repositories that are projects in other programmin
 
 ### Python projects
 
-- Mods
+- identification-of-sdBV-star-pulsed-modes-project
 - plot-fitting-project
 
 ### R project
