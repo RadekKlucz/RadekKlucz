@@ -11,9 +11,9 @@ My Github profile has several repositories that are projects in other programmin
 
 ### :snake: Python projects
 
-- identification-of-sdBV-star-pulsed-modes [Github repo here.](https://github.com/RadekKlucz/identification-of-sdBV-star-pulsed-modes)
+- **identification-of-sdBV-star-pulsed-modes** [Github repo here.](https://github.com/RadekKlucz/identification-of-sdBV-star-pulsed-modes)
 
-- plot-fitting [Github repo here.](https://github.com/RadekKlucz/plot-fitting-project)
+- **plot-fitting** [Github repo here.](https://github.com/RadekKlucz/plot-fitting-project)
 
 ### R project
 
