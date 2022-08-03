@@ -15,8 +15,8 @@ My Github profile has several repositories that are projects in other programmin
 
 - **plot-fitting** [Github repo here.](https://github.com/RadekKlucz/plot-fitting-project)
 
-### R project
-
+### :rooster: R project
+- **astronomical data analysis project** [Github repo here.](https://github.com/RadekKlucz/plot-fitting-project)
 ### C project 
 
 ### SQL project
