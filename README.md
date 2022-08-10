@@ -7,7 +7,7 @@
 
 ## :books: About my repositories
 
-My Github profile has several repositories that are projects in other programming languages. If you want to learn more about these projects, check out the individual repository. 
+My Github profile has several repositories that are projects in different programming languages. If you want to learn more about these projects, check out the individual repository. 
 
 ### :snake: Python projects
 
