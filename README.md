@@ -18,7 +18,6 @@ My Github profile has several repositories that are projects in different progra
 ### :rooster: R projects
 - **astronomical data analysis project** [Github repo here.](https://github.com/RadekKlucz/astronomical-data-analysis-project)
 - **determination-of-the-mass-of-the-pleiades** [Github repro here.](https://github.com/RadekKlucz/determination-of-the-mass-of-the-pleiades)
-- 
 <!-- ### SQL project
 
 ### Java project  -->
