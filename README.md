@@ -1,8 +1,8 @@
 # :milky_way: About Me
 - 👋 Hi, I’m @RadekKlucz
-- 👀 I’m interested in Astronomy, data science and programming
-- 🌱 I’m currently learning Python, SQL, R and C
-- 📫 How to reach me radek.kluczewski@student.uj.edu.pl, radek.info.klucz@gmail.com
+- 👀 I’m interested in: Astronomy, data science and programming
+- 🌱 I’m currently learning: Python, SQL, R and C
+- 📫 How to reach me: radek.info.klucz@gmail.com, radek.kluczewski@student.uj.edu.pl, radekklucz@student.agh.edu.pl
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ## :books: About my repositories
