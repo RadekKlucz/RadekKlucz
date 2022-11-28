@@ -32,7 +32,7 @@ My Github profile has several repositories that are projects in different progra
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 <!-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,c,cs,docker,java,latex,linux,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,c,cpp,docker,java,latex,linux,py,r)](https://skillicons.dev)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
