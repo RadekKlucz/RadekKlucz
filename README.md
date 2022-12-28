@@ -20,9 +20,9 @@ My Github profile has several repositories that are projects in different progra
 - **determination-of-the-mass-of-the-pleiades** [Github repro here.](https://github.com/RadekKlucz/determination-of-the-mass-of-the-pleiades)
 <!-- ### SQL project
  -->
-### ☕: Java project
+### ☕ Java project
 
-[animal world project](https://github.com/RadekKlucz/Animal-world-project)
+- **animal world project** [Github repo here.](https://github.com/RadekKlucz/Animal-world-project)
 
 ## :briefcase: Technical skils
 
