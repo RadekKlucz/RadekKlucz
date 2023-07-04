@@ -48,12 +48,18 @@ My Github profile has several repositories that are projects in different progra
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## :axe: Github Stats
-
+<!---
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RadekKlucz&show_icons=true&theme=Default)](https://github.com/RadekKlucz)
+--->
+<a href="https://github.com/RadekKlucz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RadekKlucz" />
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadekKlucz\&layout=compact)
+<!---
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RadekKlucz&layout=compact&langs_count=8&hide_border=true&title_color=blue&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadekKlucz&exclude_repo=github-readme-stats,RadekKlucz.github.io)
+--->
 
 <!---
 RadekKlucz/RadekKlucz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
