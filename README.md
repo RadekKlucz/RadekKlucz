@@ -11,15 +11,20 @@ My Github profile has several repositories that are projects in different progra
 
 ### :snake: Python projects
 
+- **new-library-system-design** [Github repo here.](https://github.com/RadekKlucz/new-library-system-design)
+
 - **identification-of-sdBV-star-pulsed-modes** [Github repo here.](https://github.com/RadekKlucz/identification-of-sdBV-star-pulsed-modes)
 
 - **plot-fitting** [Github repo here.](https://github.com/RadekKlucz/plot-fitting-project)
 
+
+### 📚 SQL project
+ - **restaurant-database-project** [Github repo here.](https://github.com/RadekKlucz/restaurant-database-project)
+
 ### :rooster: R projects
 - **astronomical data analysis project** [Github repo here.](https://github.com/RadekKlucz/astronomical-data-analysis-project)
 - **determination-of-the-mass-of-the-pleiades** [Github repro here.](https://github.com/RadekKlucz/determination-of-the-mass-of-the-pleiades)
-<!-- ### SQL project
- -->
+
 ### ☕ Java project
 
 - **animal world project** [Github repo here.](https://github.com/RadekKlucz/Animal-world-project)
