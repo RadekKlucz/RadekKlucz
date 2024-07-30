@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @RadekKlucz
 - 👀 I’m interested in: Astronomy, data science and programming
 - 🌱 I’m currently learning: Java, Python, SQL
-- 📫 How to reach me: radek.info.klucz@gmail.com
+- 📫 How to reach me: radek.info.klucz@gmail.com, radoslaw.klucz@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ## :books: About my repositories
