@@ -1,14 +1,20 @@
 # :milky_way: About Me
 - 👋 Hi, I’m @RadekKlucz
 - 👀 I’m interested in: Astronomy, data science and programming
-- 🌱 I’m currently learning: Python, SQL, R and C
-- 📫 How to reach me: radek.info.klucz@gmail.com, radek.kluczewski@student.uj.edu.pl, radekklucz@student.agh.edu.pl
+- 🌱 I’m currently learning: Java, Python, SQL
+- 📫 How to reach me: radek.info.klucz@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ## :books: About my repositories
 
 My Github profile has several repositories that are projects in different programming languages. If you want to learn more about these projects, check out the individual repository. 
 
+### ☕ Java project
+
+- **Supplies-Management-Tool** [Github repo here.](https://github.com/RadekKlucz/Supplies-Management-Tool)
+- **animal world project** [Github repo here.](https://github.com/RadekKlucz/Animal-world-project)
+- **evolution generator project** [Github repo here.](https://github.com/RadekKlucz/Evolution-Generator-project)
+  
 ### :snake: Python projects
 
 - **new-library-system-design** [Github repo here.](https://github.com/RadekKlucz/new-library-system-design)
@@ -25,10 +31,7 @@ My Github profile has several repositories that are projects in different progra
 - **astronomical data analysis project** [Github repo here.](https://github.com/RadekKlucz/astronomical-data-analysis-project)
 - **determination-of-the-mass-of-the-pleiades** [Github repro here.](https://github.com/RadekKlucz/determination-of-the-mass-of-the-pleiades)
 
-### ☕ Java project
 
-- **animal world project** [Github repo here.](https://github.com/RadekKlucz/Animal-world-project)
-- **evolution generator project** [Github repo here.](https://github.com/RadekKlucz/Evolution-Generator-project)
 ## :briefcase: Technical skils
 
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
